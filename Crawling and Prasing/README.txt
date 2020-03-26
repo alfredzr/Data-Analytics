@@ -1,0 +1,2 @@
+CrawlingnExtraction.R provides the codes for crawling, parsing, storing html files, extracting the fields from each article and finally writing them into a text file.
+ReadText.R reads the text file created and retrieves the data extracted before.
